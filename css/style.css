@@ -1,0 +1,31 @@
+* {
+	font-family: 'Indie Flower', cursive;
+}
+
+h2 {
+	width: 100%;
+}
+
+.row {
+	margin-bottom: 25px;
+	padding-bottom: 25px;
+	display: flex;
+	flex-flow: row wrap;
+}
+
+body {
+	background-color: lightblue;
+}
+
+img {
+	padding-top: 20px;
+}
+
+.navbar-header {
+	background-color: aliceblue; 
+}
+
+.navbar-brand {
+	font-size: 2em;
+	text-decoration: solid; 
+}
